@@ -1,4 +1,4 @@
-# PFA PyTorch - 100% 论文匹配实现
+# PFA PyTorch - 论文匹配实现
 
 > **完全匹配论文 "Projected Federated Averaging with Heterogeneous Differential Privacy" 的PyTorch实现**
 
